@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Design Library · heyfreiheit",
+  title: "Design Library",
   description: "Deine Designreferenzen, visuelle Sprachen und Briefings an einem Ort.",
   robots: { index: false, follow: false },
   icons: {

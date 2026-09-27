@@ -1,10 +1,12 @@
-# Design Library · Community Template
+# Design Library · designtoboost
 
-Deine eigene Designbibliothek: Websites sammeln, Gestaltung verstehen und daraus bessere Briefings für Codex, Claude Code und eigene Projekte erstellen.
+Meine private Designbibliothek für designtoboost. Basiert auf dem [Community Template von heyfreiheit](https://github.com/heyfreiheit/design-library-template).
+
+Wofür: Websites sammeln, Gestaltung verstehen und daraus bessere Briefings für Codex, Claude Code und Kundenprojekte erstellen.
 
 **Für Vercel vorbereitet. Mit dauerhaftem Cloud-Speicher, Login und deutscher Oberfläche. Kein eigener Server, kein Docker.**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fheyfreiheit%2Fdesign-library-template&project-name=design-library&repository-name=my-design-library)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwladislawkrause-blip%2Fdesign-library&project-name=design-library&repository-name=design-library)
 
 Der Button kopiert und deployt die Anwendung. Danach verbindest du einmal die Datenbank und den privaten Bildspeicher und legst deinen Zugang an. Das ist kein vollständig konfigurierter Ein-Klick-Dienst.
 

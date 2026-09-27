@@ -1,6 +1,6 @@
-# Design Library · designtoboost
+# Design Library
 
-Meine private Designbibliothek für designtoboost. Basiert auf dem [Community Template von heyfreiheit](https://github.com/heyfreiheit/design-library-template).
+Meine private Designbibliothek. Basiert auf dem [Community Template von heyfreiheit](https://github.com/heyfreiheit/design-library-template).
 
 Wofür: Websites sammeln, Gestaltung verstehen und daraus bessere Briefings für Codex, Claude Code und Kundenprojekte erstellen.
 
